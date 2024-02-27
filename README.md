@@ -9,3 +9,7 @@ Open source email routing service
 </div>
 
 ----
+
+## Architecture
+
+<img src="assets/architecture_01.png" />
