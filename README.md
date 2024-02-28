@@ -10,6 +10,6 @@ Open source email routing service
 
 ----
 
-## Architecture
+## Architecture (suggestion)
 
-<img src="assets/architecture_01.png" />
+<img src="assets/architecture_02.svg" />
