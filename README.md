@@ -8,7 +8,13 @@ Open source email routing service
 
 </div>
 
-----
+> [!NOTE]  
+> This project is still in development    
+> We would love you to tag along, click [here](https://github.com/peeeekaboo/peeeekaboo/wiki/Deployment-phases) to see the development planned process.
+>
+> | 🏗️ Current | 👉 Next |
+> | --- |---------|
+> | Pre-alpha | Alpha   |
 
 ## Architecture (suggestion)
 
